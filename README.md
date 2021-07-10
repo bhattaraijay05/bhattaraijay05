@@ -10,8 +10,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhattaraijay05&theme=vue)
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattaraijay05&count_private=true&show_icons=true)]
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraijay05&layout=compact)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhattaraijay05)]
