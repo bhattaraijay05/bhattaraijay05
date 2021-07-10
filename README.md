@@ -10,14 +10,14 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhattaraijay05&theme=vue)
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattaraijay05)](https://github.com/bhattaraijay05/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattaraijay05&count_private=true&show_icons=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraijay05&layout=compact)](https://github.com/bhattaraijay05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraijay05&layout=compact)]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhattaraijay05)](https://github.com/bhattaraijay05/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhattaraijay05)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhattaraijay05)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhattaraijay05)]
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
 
 ![bhattaraijay05 snake gif](https://github.com/bhattaraijay05/bhattaraijay05/blob/output/github-contribution-grid-snake.svg)  
